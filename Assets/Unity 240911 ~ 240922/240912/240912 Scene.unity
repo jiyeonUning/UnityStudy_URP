@@ -458,6 +458,8 @@ MonoBehaviour:
   CurQuest:
   - {fileID: 11400000, guid: 7db858ef222316c4581ad4370a202768, type: 2}
   - {fileID: 11400000, guid: e76337d85f21ae74cb5cc99914e5683f, type: 2}
+  CurSkill:
+  - {fileID: 11400000, guid: 889fb6c8b7be4ae4b973ab3872c34e00, type: 2}
 --- !u!136 &1388986142
 CapsuleCollider:
   m_ObjectHideFlags: 0
